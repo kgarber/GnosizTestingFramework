@@ -5,7 +5,7 @@ require "test/unit"
 
 #Selenium::WebDriver::Chrome::Service.executable_path = '/Users/zerionsoftware/Downloads/chromedriver'
 
-class LoginTest < Test::Unit::TestCase
+class Setup < Test::Unit::TestCase
 
   def setup
 

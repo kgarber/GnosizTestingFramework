@@ -1,1 +1,8 @@
-loginUser(123123,123123)
+loginUser(123123,321321)
+
+baseUrl(qa.gnosiz.com)
+
+Test:
+TestCase1
+TestCase2
+End
